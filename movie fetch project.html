@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>movie project</title>
+	<link rel="stylesheet" href="styles/movie fetch project.css">
+	<script src="scripts/movie fetch project.js" defer></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	<div class="wrapper">
+		<div class="logo">
+			<div class="countainer">
+				<p>movie<span>corn.</span></p>
+			</div>
+		</div>
+		
+		<div class="search-countainer">
+			<div class="search-element">
+				<h3>searchmovie</h3>
+				<input type="text" class="form-control" placeholder="search-movie-title ..." id="movie-search-box" onKeyUp="findmovies()">
+				
+				
+				<div class="search-list" id="search-list">
+					<div class="search-list-item">
+						<div class="search-item-thambnail">
+						 	 <img src="../../Documents/images/image4.jpg" alt="img">
+						</div>
+						<div class="search-item-info">
+						 	 <h3>Lorem ipsum dolor sit amet.</h3>
+							<p>2017</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="countainer">
+		  <div class="result-countainer">
+			<div class="result-grid" id="result-grid">
+
+			</div>	
+		  </div>
+		</div>
+		
+	</div>
+</body>
+</html>

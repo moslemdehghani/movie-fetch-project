@@ -1,0 +1,21 @@
+<div class="movie-poster">
+				 <img src="../../Documents/images/image12.jpg" alt="movie-poster">
+				</div>
+				<div class="movie-info">
+				<h1 class="movie-title">Lorem ipsum.</h1>
+					<ul class="movie-misc-info">
+						<li class="year">2017</li>
+						<li class="rated">rating: pg+13</li>
+						<li class="released">released:05 may</li>
+					</ul>
+					<p class="genre"><b>genre:</b>action,comedy,advanture</p>
+					
+					<p class="writer"><b>writer:</b>Lorem ipsum dolor.</p>
+					
+					<p class="actors"><b>actors:</b>Lorem ipsum dolor.</p>
+					
+					<p class="plot"><b>plot:</b>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore esse debitis placeat rem perferendis quaerat quidem est voluptatem mollitia quas!</p>
+					
+					<p class="language"><b>language:</b>Lorem ipsum dolor.</p>
+					<p class="awards"><b><i class="fas-fa-award"></i></b>Lorem ipsum dolor sit.</p>
+				</div>

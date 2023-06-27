@@ -26,7 +26,7 @@ img{
 }
 
 .wrapper{
-	min-height: 100vh;
+	min-height: 200vh;
 	background-color:#171717
 }
 
@@ -137,7 +137,9 @@ img{
 .hide-search-list{
 	display: none;
 }
+
 .result-countainer{
+	margin-top: 200px; 
 	padding: 3rem 0 ;
 }
 .movie-poster{
